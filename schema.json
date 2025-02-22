@@ -1,0 +1,14 @@
+[
+    {
+        "name": "orders",
+        "columns": ["id", "customer_id", "order_date", "total"]
+    },
+    {
+        "name": "customers",
+        "columns": ["id", "name", "email", "address"]
+    },
+    {
+        "name": "products",
+        "columns": ["id", "name", "price", "category"]
+    }
+]

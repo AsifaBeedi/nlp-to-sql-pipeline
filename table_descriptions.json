@@ -1,0 +1,1 @@
+["orders - id, customer_id, order_date, total", "customers - id, name, email, address", "products - id, name, price, category"]
