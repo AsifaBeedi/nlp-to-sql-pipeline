@@ -75,3 +75,20 @@ We tested the system by asking different queries and checking if the returned ta
 
 Step 9: Deploying the System
 Once everything was working well, we deployed the system online using Vercel, so that it could be accessed by anyone. 
+
+
+References:
+
+Using ChatGPT for Assistance
+
+Understand how FAISS and Sentence Transformers work.
+Get help with debugging errors in FastAPI.
+Improve our approach to converting table descriptions into AI-friendly formats.
+Learn best practices for optimizing similarity searches.
+ChatGPT helped us save time by explaining complex concepts in simple terms and suggesting improvements for our code and design.
+
+Official Documentation & Tutorials
+
+Sentence Transformers  https://www.sbert.net/ (for text embeddings)
+FAISS  https://faiss.ai/ (for fast similarity search)
+FastAPI  https://fastapi.tiangolo.com/ (for building the backend)
