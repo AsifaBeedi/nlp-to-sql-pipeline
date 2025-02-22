@@ -61,7 +61,7 @@ Returns the most relevant tables as a response.
 
 
 Step 7: Running the System
-Once everything was set up, we started the backend server. Now, when users send a query, they get a list of the most relevant tables along with a similarity score (showing how closely the table matches their query).
+Once everything was set up, we started the backend server. When users send a query, they get a list of the most relevant tables.
 
 if a user asks for customer orders,the system might return:
 
